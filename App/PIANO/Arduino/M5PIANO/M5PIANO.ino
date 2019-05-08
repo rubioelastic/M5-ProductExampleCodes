@@ -28,6 +28,30 @@ CRGB Leds[NUM_LEDS_PER_STRIP];
 #define GTRL1     0x0B
 #define GTRL2     0x0C
 
+
+
+
+
+
+
+
+
+
+Vamos a empeaxr un nuevo desarrollo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #define Cal_CTRL    0x0D
 
 #define Port_CTRL1    0x0E
